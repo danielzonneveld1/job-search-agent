@@ -1,0 +1,141 @@
+{
+  "tracker_csv": "applications.csv",
+  "companies": {
+    "tech": {
+      "Duolingo": [],
+      "Datadog": [],
+      "Discord": [
+        "Discord Inc."
+      ]
+    },
+    "fintech": {
+      "Mercury": [
+        "Mercury Technologies"
+      ],
+      "Carta": [
+        "eShares"
+      ],
+      "Gusto": []
+    },
+    "health": {
+      "Flatiron Health": [
+        "Flatiron"
+      ],
+      "Komodo Health": []
+    },
+    "contract_staffing": {}
+  },
+  "workday_companies": {},
+  "talentbrew_companies": {},
+  "jibe_companies": {},
+  "successfactors_rss_companies": {},
+  "successfactors_search_companies": {},
+  "oracle_companies": {},
+  "gr8people_companies": {},
+  "rippling_companies": {},
+  "workable_companies": {},
+  "include_title_keywords": [
+    "data analyst",
+    "analytics",
+    "business intelligence",
+    "bi analyst",
+    "reporting analyst"
+  ],
+  "exclude_title_keywords": [
+    "senior",
+    "sr",
+    "lead",
+    "principal",
+    "staff",
+    "director",
+    "head of",
+    "vp",
+    "manager",
+    "engineer",
+    "scientist"
+  ],
+  "manager_junior_qualifiers": [
+    "assistant",
+    "associate"
+  ],
+  "ambiguous_function_terms": [
+    "operations",
+    "finance",
+    "compliance"
+  ],
+  "role_anchor_terms": [
+    "data",
+    "analytics"
+  ],
+  "home_area_keywords": [
+    "new york",
+    "nyc",
+    "brooklyn",
+    "jersey city"
+  ],
+  "search_terms": [
+    "data analyst",
+    "junior data analyst",
+    "analytics associate",
+    "business intelligence analyst"
+  ],
+  "sector_colors": {
+    "tech": "#2563EB",
+    "fintech": "#7C3AED",
+    "health": "#DB2777",
+    "contract_staffing": "#B91C1C",
+    "other": "#6B7280"
+  },
+  "sector_display_names": {
+    "contract_staffing": "Contract & Part-Time",
+    "other": "Other Companies (Major Metros)"
+  },
+  "sector_display_order": [
+    "tech",
+    "fintech",
+    "health",
+    "contract_staffing",
+    "other"
+  ],
+  "max_years_experience": 2,
+  "stretch_years_experience": 3,
+  "min_employees": 201,
+  "strong_title_terms": [
+    "analyst",
+    "associate",
+    "specialist"
+  ],
+  "core_subject_terms": [
+    "data",
+    "analytics",
+    "insights"
+  ],
+  "sales_development_signals": [
+    "cold call",
+    "outbound",
+    "prospect",
+    "quota",
+    "book meetings",
+    "pipeline generation"
+  ],
+  "sales_development_title_terms": [
+    "business associate",
+    "commercial associate"
+  ],
+  "hq_only_companies": {},
+  "talentbrew_search_slugs": [
+    "data-analyst",
+    "analytics"
+  ],
+  "google_careers_terms": [
+    "data analyst"
+  ],
+  "remotive_category": "data",
+  "jobicy_tag": "data-science",
+  "international_ok_sectors": [],
+  "contract_sector": "contract_staffing",
+  "extra_sources": {
+    "amazon": false,
+    "google": false
+  }
+}

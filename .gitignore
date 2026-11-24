@@ -1,0 +1,15 @@
+# Secrets and personal data never leave your machine
+.env
+search_profile.json
+watched_companies.json
+company_profiles.json
+pending_companies.json
+learned_rules.json
+*.csv
+email_digest.html
+logs/
+
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
